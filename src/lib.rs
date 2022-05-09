@@ -1,3 +1,5 @@
+#![feature(in_band_lifetimes)]
+
 mod bstream;
 mod xor;
 mod tsdb;
